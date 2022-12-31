@@ -1,0 +1,57 @@
+body {background-color: rgb(241, 234, 226);
+    margin: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+
+    }
+.header { display: inline;
+}
+nav {  border: 1px solid blue;}
+h1{ display: inline;
+    
+    float: left;
+    margin-right: 100px;
+    }
+a { border-left: 4px solid blue;
+    padding: 5px;
+    text-decoration: none;
+    font-weight: bolder;
+    font-size: larger;
+    width: 60px;
+    box-sizing: border-box;
+
+    }
+
+.container {position: relative;}
+img { opacity:;
+     filter: blur(2px)
+}
+.skills{ 
+background-color: rgb(229, 164, 231);}
+#about{ display: block;
+    width: 100%;
+    background-color: rgb(220, 197, 241);
+    text-align: center;
+    padding-left:auto;
+    padding-right: auto;
+}
+#work{ display: block;
+        width: 100%;
+        background-color: rgb(220, 197, 241);
+        text-align: center;
+        padding-left:auto;
+        padding-right: auto;}
+
+#resume{ display: block;
+            width: 100%;
+            background-color: rgb(220, 197, 241);
+            text-align: center;
+            padding-left:auto;
+            padding-right: auto;}       
+
+ #contact{ display: block;
+            width: 100%;
+            background-color: rgb(220, 197, 241);
+            text-align: center;
+            padding-left:auto;
+            padding-right: auto;}
