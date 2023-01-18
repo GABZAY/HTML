@@ -1,6 +1,7 @@
 body {background-color: rgb(241, 234, 226);
     margin: 40px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: 'Roboto', sans-serif;
     
 
     }
@@ -23,7 +24,7 @@ a { border-left: 4px solid blue;
     }
 
 .container {position: relative;}
-img { opacity:;
+img { opacity:1;
      filter: blur(2px)
 }
 .skills{ 
